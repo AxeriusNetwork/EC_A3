@@ -74,6 +74,7 @@ class CfgVehicles {
         displayName = "Platoon Leader";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -112,6 +113,7 @@ class CfgVehicles {
         displayName = "Platoon Sergeant";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -150,6 +152,7 @@ class CfgVehicles {
         displayName = "Squad Leader";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -188,6 +191,7 @@ class CfgVehicles {
         displayName = "Team Leader";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -228,6 +232,7 @@ class CfgVehicles {
         displayName = "Machine Gunner";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -268,6 +273,7 @@ class CfgVehicles {
         displayName = "Machine Gunner Ass";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -308,6 +314,7 @@ class CfgVehicles {
         displayName = "AT Specialist";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -346,6 +353,7 @@ class CfgVehicles {
         displayName = "AA Specialist";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -386,6 +394,7 @@ class CfgVehicles {
         displayName = "Engineer";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -426,6 +435,7 @@ class CfgVehicles {
         displayName = "SARC";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -466,6 +476,7 @@ class CfgVehicles {
         displayName = "Rifleman";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -504,6 +515,7 @@ class CfgVehicles {
         displayName = "Marksman";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -542,6 +554,7 @@ class CfgVehicles {
         displayName = "Grenadier";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -582,6 +595,7 @@ class CfgVehicles {
         displayName = "Auto Rifleman";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -622,6 +636,7 @@ class CfgVehicles {
         displayName = "Section Leader";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -660,6 +675,7 @@ class CfgVehicles {
         displayName = "Helicopter Pilot";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -698,6 +714,7 @@ class CfgVehicles {
         displayName = "Fighter Pilot";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
@@ -736,6 +753,7 @@ class CfgVehicles {
         displayName = "Crewman";
         side = 1;
         faction = "B_EC";
+        vehicleClass = "B_EC_Men";
 
         identityTypes[] = {"Head_NATO","LanguageENG_F","rhsusf_g_usmc"};
 
