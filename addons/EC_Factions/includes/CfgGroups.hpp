@@ -2,7 +2,7 @@ class CfgGroups
 {
     class WEST
     {
-        class EC
+        class B_EC
         {
             name="[EC] Army";
             class Infantry
