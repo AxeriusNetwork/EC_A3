@@ -1,17 +1,17 @@
 class cfgVehicleClasses {
-	class My_Subgroup_Men {
-		displayName="Men";
+	class B_EC_Men {
+		displayName="[EC] Men";
 	};	
-	class My_Subgroup_Cars {
-		displayName="Cars";
+	class B_EC_Cars {
+		displayName="[EC] Cars";
 	};
-	class My_Subgroup_APC {
-		displayName="APCs";
+	class B_EC_APC {
+		displayName="[EC] APCs";
 	};
-	class My_Subgroup_Helis {
-		displayName="Helicopters";
+	class B_EC_Helis {
+		displayName="[EC] Helicopters";
 	};
-	class My_Subgroup_Boats {
-		displayName="Boats";
+	class B_EC_Boats {
+		displayName="[EC] Boats";
 	};
 };
