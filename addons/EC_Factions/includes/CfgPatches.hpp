@@ -24,7 +24,8 @@ class CfgPatches {
         requiredVersion = 1.62;
         requiredAddons[] = {
             "rhsusf_c_troops",
-            "ace_compat_rhs_usf3"
+            "ace_compat_rhs_usf3",
+            "hlc_core"
         };
         author = "Capwell";
         authors[] = {"Capwell"};
