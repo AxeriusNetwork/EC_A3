@@ -12,7 +12,7 @@ class CfgGroups
                 {
                     name="Platoon 1";
                     side=1;
-                    faction="EC";
+                    faction = "B_EC";
                     icon="\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     rarityGroup=0.5;
                     class Unit0
@@ -34,7 +34,7 @@ class CfgGroups
                 {
                     name="Squad Default";
                     side=1;
-                    faction="EC";
+                    faction = "B_EC";
                     icon="\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     rarityGroup=0.5;
                     class Unit0
@@ -140,7 +140,7 @@ class CfgGroups
                 {
                     name="Squad 1";
                     side=1;
-                    faction="EC";
+                    faction = "B_EC";
                     icon="\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     rarityGroup=0.5;
                     class Unit0
@@ -268,7 +268,7 @@ class CfgGroups
                 {
                     name="Section 1";
                     side=1;
-                    faction="EC";
+                    faction = "B_EC";
                     icon="\A3\ui_f\data\map\markers\nato\b_air.paa";
                     rarityGroup=0.5;
                     class Unit0
