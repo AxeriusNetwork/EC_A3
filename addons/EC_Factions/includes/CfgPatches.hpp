@@ -23,9 +23,9 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = 1.62;
         requiredAddons[] = {
+            "EC_Data",
             "rhsusf_c_troops",
-            "ace_compat_rhs_usf3",
-            "hlc_core"
+            "ace_compat_rhs_usf3"
         };
         author = "Capwell";
         authors[] = {"Capwell"};
